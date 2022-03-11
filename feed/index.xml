@@ -12,36 +12,12 @@
 	<atom:link href="http://localhost/demo1/feed" rel="self" type="application/rss+xml" />
 	<link>https://bardohuang.github.io/youshan</link>
 	<description>Youshan</description>
-	<lastBuildDate>Wed, 02 Mar 2022 05:33:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Mar 2022 00:43:32 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.1</generator>
-	<item>
-		<title>世界，您好！</title>
-		<link>https://bardohuang.github.io/youshan/archives/1</link>
-					<comments>https://bardohuang.github.io/youshan/archives/1#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 02 Mar 2022 05:33:12 +0000</pubDate>
-				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">https://bardohuang.github.io/youshan/?p=1</guid>
-
-					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
-										<content:encoded><![CDATA[
-<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
-<!--themify_builder_content-->
-<div id="themify_builder_content-1" data-postid="1" class="themify_builder_content themify_builder_content-1 themify_builder tf_clear">
-    </div>
-<!--/themify_builder_content-->
-]]></content:encoded>
-					
-					<wfw:commentRss>https://bardohuang.github.io/youshan/archives/1/feed</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
